@@ -1,98 +1,97 @@
-,Title,Box Office,IMDb,Rotten Tomatoes,Metascore,Awards
-0,Star Wars: Episode IV - A New Hope,460998507,8.6,92.0,90,Won 6 Oscars. Another 57 wins & 29 nominations.
-1,Jurassic World,652385625,7.0,70.0,59,15 wins & 58 nominations.
-2,Furious 7,353007020,7.1,82.0,67,Nominated for 1 Golden Globe. Another 35 wins & 35 nominations.
-3,Avengers: Age of Ultron,459005868,7.3,75.0,66,8 wins & 49 nominations.
-4,Minions,336045770,6.4,55.0,56,Nominated for 1 BAFTA Film Award. Another 4 wins & 26 nominations.
-5,Spectre,200074609,6.8,63.0,60,Won 1 Oscar. Another 7 wins & 36 nominations.
-6,Inside Out,356921711,8.1,98.0,94,Won 1 Oscar. Another 99 wins & 116 nominations.
-7,Mission: Impossible - Rogue Nation,195042377,7.4,94.0,75,6 wins & 26 nominations.
-8,The Hunger Games: Mockingjay - Part 2,281723902,6.6,69.0,65,16 wins & 34 nominations.
-9,The Martian,228433663,8.0,91.0,80,Nominated for 7 Oscars. Another 38 wins & 192 nominations.
-10,Fifty Shades of Grey,166167230,4.1,24.0,46,Nominated for 1 Oscar. Another 9 wins & 27 nominations.
-11,Cinderella,201151353,6.9,83.0,67,Nominated for 1 Oscar. Another 8 wins & 36 nominations.
-12,The Revenant,183637894,8.0,78.0,76,Won 3 Oscars. Another 88 wins & 187 nominations.
-13,Ant-Man,180202163,7.3,82.0,64,Nominated for 1 BAFTA Film Award. Another 4 wins & 33 nominations.
-14,San Andreas,155190832,6.1,49.0,43,2 wins & 10 nominations.
-15,Hotel Transylvania 2,169700110,6.7,55.0,44,1 win & 10 nominations.
-16,Terminator Genisys,89760956,6.3,27.0,38,10 nominations.
-17,Mad Max: Fury Road,154058340,8.1,97.0,90,Won 6 Oscars. Another 239 wins & 231 nominations.
-18,Home,177397510,6.6,51.0,55,3 wins & 9 nominations.
-19,The Good Dinosaur,123087120,6.7,76.0,66,Nominated for 1 Golden Globe. Another 9 wins & 40 nominations.
-20,Captain America: Civil War,408084349,7.8,90.0,75,16 wins & 72 nominations.
-21,Rogue One: A Star Wars Story,532177324,7.8,84.0,65,Nominated for 2 Oscars. Another 24 wins & 81 nominations.
-22,Finding Dory,486295561,7.3,94.0,77,Nominated for 1 BAFTA Film Award. Another 17 wins & 45 nominations.
-23,Zootopia,341268248,8.0,98.0,78,Won 1 Oscar. Another 46 wins & 72 nominations.
-24,The Jungle Book,364001123,7.4,94.0,77,Won 1 Oscar. Another 32 wins & 54 nominations.
-25,The Secret Life of Pets,368384330,6.5,72.0,61,4 wins & 15 nominations.
-26,Batman v Superman: Dawn of Justice,330360194,6.4,29.0,44,14 wins & 33 nominations.
-27,Fantastic Beasts and Where to Find Them,234037575,7.3,74.0,66,Won 1 Oscar. Another 14 wins & 54 nominations.
-28,Deadpool,363070709,8.0,85.0,65,Nominated for 2 Golden Globes. Another 28 wins & 76 nominations.
-29,Suicide Squad,325100054,6.0,26.0,40,Won 1 Oscar. Another 16 wins & 40 nominations.
-30,Moana,248757044,7.6,95.0,81,Nominated for 2 Oscars. Another 20 wins & 88 nominations.
-31,Doctor Strange,232641920,7.5,89.0,72,Nominated for 1 Oscar. Another 19 wins & 67 nominations.
-32,Sing,270448425,7.1,72.0,59,Nominated for 2 Golden Globes. Another 3 wins & 23 nominations.
-33,X-Men: Apocalypse,155442489,6.9,47.0,52,1 win & 19 nominations.
-34,Kung Fu Panda 3,143528619,7.1,87.0,66,1 win & 10 nominations.
-35,La La Land,151101803,8.0,90.0,94,Won 6 Oscars. Another 236 wins & 287 nominations.
-36,Warcraft,47365290,6.8,28.0,32,2 wins & 3 nominations.
-37,Jason Bourne,162434410,6.6,54.0,58,3 wins & 20 nominations.
-38,Ice Age: Collision Course,64063008,5.7,18.0,34,2 wins.
-39,Star Wars: Episode IV - A New Hope,460998507,8.6,92.0,90,Won 6 Oscars. Another 57 wins & 29 nominations.
-40,Beauty and the Beast,504481165,7.1,71.0,65,Nominated for 2 Oscars. Another 15 wins & 72 nominations.
-41,The Fate of the Furious,226008385,6.6,67.0,56,2 wins & 12 nominations.
-42,Despicable Me 3,264624300,6.3,58.0,49,33 nominations.
-43,Jumanji: Welcome to the Jungle,404540171,6.9,76.0,58,6 wins & 19 nominations.
-44,Spider-Man: Homecoming,334201140,7.4,92.0,73,7 wins & 10 nominations.
-45,Wolf Warrior 2,2721100,6.0,69.0,44,27 wins & 15 nominations.
-46,Guardians of the Galaxy Vol. 2,389813101,7.6,85.0,67,Nominated for 1 Oscar. Another 15 wins & 57 nominations.
-47,Thor: Ragnarok,315058289,7.9,93.0,74,6 wins & 50 nominations.
-48,Wonder Woman,412815408,7.4,93.0,76,25 wins & 72 nominations.
-49,Coco,210460015,8.4,97.0,81,Won 2 Oscars. Another 109 wins & 40 nominations.
-50,Pirates of the Caribbean: Dead Men Tell No Tales,172558876,6.5,29.0,39,1 win & 13 nominations.
-51,It,328828874,7.3,86.0,69,9 wins & 49 nominations.
-52,Justice League,229024295,6.2,40.0,45,2 wins & 13 nominations.
-53,Logan,226277068,8.1,93.0,77,Nominated for 1 Oscar. Another 28 wins & 76 nominations.
-54,Transformers: The Last Knight,130168683,5.2,15.0,27,5 wins & 19 nominations.
-55,Kong: Skull Island,168052812,6.6,75.0,62,Nominated for 1 Oscar. Another 1 win & 20 nominations.
-56,Dunkirk,189740665,7.8,92.0,94,Won 3 Oscars. Another 60 wins & 229 nominations.
-57,The Boss Baby,175003033,6.3,53.0,50,Nominated for 1 Oscar. Another 4 wins & 20 nominations.
-58,War for the Planet of the Apes,146880162,7.4,94.0,82,Nominated for 1 Oscar. Another 27 wins & 64 nominations.
-59,Avengers: Infinity War,678815482,8.4,85.0,68,Nominated for 1 Oscar. Another 46 wins & 76 nominations.
-60,Black Panther,700426566,7.3,96.0,88,Won 3 Oscars. Another 109 wins & 274 nominations.
-61,Jurassic World: Fallen Kingdom,417719760,6.2,47.0,51,4 wins & 26 nominations.
-62,Incredibles 2,608581744,7.6,93.0,80,Nominated for 1 Oscar. Another 12 wins & 76 nominations.
-63,Aquaman,335061807,6.9,65.0,55,2 wins & 39 nominations.
-64,Bohemian Rhapsody,216668042,8.0,60.0,49,Won 4 Oscars. Another 42 wins & 77 nominations.
-65,Venom,213515506,6.7,29.0,35,3 wins & 9 nominations.
-66,Mission: Impossible - Fallout,220159104,7.7,97.0,86,Nominated for 1 BAFTA Film Award. Another 23 wins & 36 nominations.
-67,Deadpool 2,324591735,7.7,84.0,66,6 wins & 52 nominations.
-68,Fantastic Beasts: The Crimes of Grindelwald,159555901,6.6,36.0,52,Nominated for 2 BAFTA Film Awards. Another 3 wins & 20 nominations.
-69,Ant-Man and the Wasp,216648740,7.0,87.0,70,1 win & 20 nominations.
-70,Ready Player One,137690172,7.4,72.0,64,Nominated for 1 Oscar. Another 11 wins & 55 nominations.
-71,Operation Red Sea,1543547,6.7,80.0,N/A,31 wins & 41 nominations.
-72,The Meg,145443742,5.6,45.0,46,4 wins & 6 nominations.
-73,Ralph Breaks the Internet,201091711,7.0,88.0,71,Nominated for 1 Oscar. Another 3 wins & 66 nominations.
-74,The Grinch,271094731,6.3,59.0,51,1 win & 18 nominations.
-75,Bumblebee,127195589,6.8,91.0,66,2 wins & 13 nominations.
-76,A Star Is Born,215288866,7.6,90.0,88,Won 1 Oscar. Another 93 wins & 278 nominations.
-77,Rampage,101028233,6.1,51.0,45,7 nominations.
-78,Avengers: Endgame,858373000,8.4,94.0,78,Nominated for 1 Oscar. Another 69 wins & 109 nominations.
-79,The Lion King,543638043,6.9,52.0,55,Nominated for 1 Oscar. Another 19 wins & 43 nominations.
-80,Frozen II,477373578,6.9,78.0,64,Nominated for 1 Oscar. Another 18 wins & 88 nominations.
-81,Spider-Man: Far from Home,390532085,7.5,90.0,69,10 wins & 25 nominations.
-82,Captain Marvel,426829839,6.9,79.0,64,8 wins & 52 nominations.
-83,Joker,335451311,8.4,68.0,59,Won 2 Oscars. Another 116 wins & 235 nominations.
-84,Star Wars: Episode IV - A New Hope,460998507,8.6,92.0,90,Won 6 Oscars. Another 57 wins & 29 nominations.
-85,Toy Story 4,434038008,7.8,97.0,84,Won 1 Oscar. Another 55 wins & 62 nominations.
-86,Aladdin,355559216,6.9,57.0,53,8 wins & 38 nominations.
-87,Jumanji: The Next Level,320314960,6.6,71.0,58,1 win & 10 nominations.
-88,Fast & Furious 6,238679850,7.0,70.0,61,10 wins & 22 nominations.
-89,Ne Zha,3695533,7.5,88.0,54,20 wins & 23 nominations.
-90,How to Train Your Dragon: The Hidden World,160799505,7.5,90.0,71,Nominated for 1 Oscar. Another 5 wins & 63 nominations.
-91,Maleficent: Mistress of Evil,113929605,6.6,39.0,43,Nominated for 1 Oscar. Another 1 win & 10 nominations.
-92,It Chapter Two,211593228,6.5,62.0,58,5 wins & 30 nominations.
-93,Pokémon Detective Pikachu,144105346,6.6,67.0,53,9 nominations.
-94,Alita: Battle Angel,85838210,7.3,61.0,53,10 wins & 24 nominations.
-95,Godzilla: King of the Monsters,110500138,6.0,42.0,48,6 wins & 14 nominations.
-96,1917,159227644,8.3,89.0,78,Won 3 Oscars. Another 128 wins & 200 nominations.
+,Title_OMDb,IMDb ID,Box Office,IMDb,Rotten Tomatoes,Metascore,Awards
+0,Star Wars: Episode VII - The Force Awakens,tt2488496,936662225,7.9,93.0,80,Nominated for 5 Oscars. Another 62 wins & 131 nominations.
+1,Jurassic World,tt0369610,652385625,7.0,70.0,59,15 wins & 58 nominations.
+2,Furious 7,tt2820852,353007020,7.1,82.0,67,Nominated for 1 Golden Globe. Another 35 wins & 35 nominations.
+3,Avengers: Age of Ultron,tt2395427,459005868,7.3,75.0,66,8 wins & 49 nominations.
+4,Minions,tt2293640,336045770,6.4,55.0,56,Nominated for 1 BAFTA Film Award. Another 4 wins & 26 nominations.
+5,Spectre,tt2379713,200074609,6.8,63.0,60,Won 1 Oscar. Another 7 wins & 36 nominations.
+6,Inside Out,tt2096673,356921711,8.1,98.0,94,Won 1 Oscar. Another 99 wins & 116 nominations.
+7,Mission: Impossible - Rogue Nation,tt2381249,195042377,7.4,94.0,75,6 wins & 26 nominations.
+8,The Hunger Games: Mockingjay - Part 2,tt1951266,281723902,6.6,69.0,65,16 wins & 34 nominations.
+9,The Martian,tt3659388,228433663,8.0,91.0,80,Nominated for 7 Oscars. Another 38 wins & 192 nominations.
+10,Fifty Shades of Grey,tt2322441,166167230,4.1,24.0,46,Nominated for 1 Oscar. Another 9 wins & 27 nominations.
+11,Cinderella,tt1661199,201151353,6.9,83.0,67,Nominated for 1 Oscar. Another 8 wins & 36 nominations.
+12,The Revenant,tt1663202,183637894,8.0,78.0,76,Won 3 Oscars. Another 88 wins & 187 nominations.
+13,Ant-Man,tt0478970,180202163,7.3,82.0,64,Nominated for 1 BAFTA Film Award. Another 4 wins & 33 nominations.
+14,San Andreas,tt2126355,155190832,6.1,49.0,43,2 wins & 10 nominations.
+15,Hotel Transylvania 2,tt2510894,169700110,6.7,55.0,44,1 win & 10 nominations.
+16,Terminator Genisys,tt1340138,89760956,6.3,27.0,38,10 nominations.
+17,Mad Max: Fury Road,tt1392190,154058340,8.1,97.0,90,Won 6 Oscars. Another 239 wins & 231 nominations.
+18,Home,tt2224026,177397510,6.6,51.0,55,3 wins & 9 nominations.
+19,The Good Dinosaur,tt1979388,123087120,6.7,76.0,66,Nominated for 1 Golden Globe. Another 9 wins & 40 nominations.
+20,Captain America: Civil War,tt3498820,408084349,7.8,90.0,75,16 wins & 72 nominations.
+21,Rogue One: A Star Wars Story,tt3748528,532177324,7.8,84.0,65,Nominated for 2 Oscars. Another 24 wins & 81 nominations.
+22,Finding Dory,tt2277860,486295561,7.3,94.0,77,Nominated for 1 BAFTA Film Award. Another 17 wins & 45 nominations.
+23,Zootopia,tt2948356,341268248,8.0,98.0,78,Won 1 Oscar. Another 46 wins & 72 nominations.
+24,The Jungle Book,tt3040964,364001123,7.4,94.0,77,Won 1 Oscar. Another 32 wins & 54 nominations.
+25,The Secret Life of Pets,tt2709768,368384330,6.5,72.0,61,4 wins & 15 nominations.
+26,Batman v Superman: Dawn of Justice,tt2975590,330360194,6.4,29.0,44,14 wins & 33 nominations.
+27,Fantastic Beasts and Where to Find Them,tt3183660,234037575,7.3,74.0,66,Won 1 Oscar. Another 14 wins & 54 nominations.
+28,Deadpool,tt1431045,363070709,8.0,85.0,65,Nominated for 2 Golden Globes. Another 28 wins & 76 nominations.
+29,Suicide Squad,tt1386697,325100054,6.0,26.0,40,Won 1 Oscar. Another 16 wins & 40 nominations.
+30,Moana,tt3521164,248757044,7.6,95.0,81,Nominated for 2 Oscars. Another 20 wins & 88 nominations.
+31,Doctor Strange,tt1211837,232641920,7.5,89.0,72,Nominated for 1 Oscar. Another 19 wins & 67 nominations.
+32,Sing,tt3470600,270448425,7.1,72.0,59,Nominated for 2 Golden Globes. Another 3 wins & 23 nominations.
+33,X-Men: Apocalypse,tt3385516,155442489,6.9,47.0,52,1 win & 19 nominations.
+34,Kung Fu Panda 3,tt2267968,143528619,7.1,87.0,66,1 win & 10 nominations.
+35,La La Land,tt3783958,151101803,8.0,90.0,94,Won 6 Oscars. Another 236 wins & 287 nominations.
+36,Warcraft,tt0803096,47365290,6.8,28.0,32,2 wins & 3 nominations.
+37,Jason Bourne,tt4196776,162434410,6.6,54.0,58,3 wins & 20 nominations.
+38,Ice Age: Collision Course,tt3416828,64063008,5.7,18.0,34,2 wins.
+39,Star Wars: Episode VIII - The Last Jedi,tt2527336,620181382,7.0,90.0,84,Nominated for 4 Oscars. Another 26 wins & 99 nominations.
+40,Beauty and the Beast,tt2771200,504481165,7.1,71.0,65,Nominated for 2 Oscars. Another 15 wins & 72 nominations.
+41,The Fate of the Furious,tt4630562,226008385,6.6,67.0,56,2 wins & 12 nominations.
+42,Despicable Me 3,tt3469046,264624300,6.3,58.0,49,33 nominations.
+43,Jumanji: Welcome to the Jungle,tt2283362,404540171,6.9,76.0,58,6 wins & 19 nominations.
+44,Spider-Man: Homecoming,tt2250912,334201140,7.4,92.0,73,7 wins & 10 nominations.
+45,Wolf Warrior 2,tt7131870,2721100,6.0,69.0,44,27 wins & 15 nominations.
+46,Guardians of the Galaxy Vol. 2,tt3896198,389813101,7.6,85.0,67,Nominated for 1 Oscar. Another 15 wins & 57 nominations.
+47,Thor: Ragnarok,tt3501632,315058289,7.9,93.0,74,6 wins & 50 nominations.
+48,Wonder Woman,tt0451279,412815408,7.4,93.0,76,25 wins & 72 nominations.
+49,Coco,tt2380307,210460015,8.4,97.0,81,Won 2 Oscars. Another 109 wins & 40 nominations.
+50,Pirates of the Caribbean: Dead Men Tell No Tales,tt1790809,172558876,6.5,29.0,39,1 win & 13 nominations.
+51,It,tt1396484,328828874,7.3,86.0,69,9 wins & 49 nominations.
+52,Justice League,tt0974015,229024295,6.2,40.0,45,2 wins & 13 nominations.
+53,Logan,tt3315342,226277068,8.1,93.0,77,Nominated for 1 Oscar. Another 28 wins & 76 nominations.
+54,Transformers: The Last Knight,tt3371366,130168683,5.2,15.0,27,5 wins & 19 nominations.
+55,Kong: Skull Island,tt3731562,168052812,6.6,75.0,62,Nominated for 1 Oscar. Another 1 win & 20 nominations.
+56,Dunkirk,tt5013056,189740665,7.8,92.0,94,Won 3 Oscars. Another 60 wins & 229 nominations.
+57,The Boss Baby,tt3874544,175003033,6.3,53.0,50,Nominated for 1 Oscar. Another 4 wins & 20 nominations.
+58,War for the Planet of the Apes,tt3450958,146880162,7.4,94.0,82,Nominated for 1 Oscar. Another 27 wins & 64 nominations.
+59,Avengers: Infinity War,tt4154756,678815482,8.4,85.0,68,Nominated for 1 Oscar. Another 46 wins & 76 nominations.
+60,Black Panther,tt1825683,700426566,7.3,96.0,88,Won 3 Oscars. Another 109 wins & 274 nominations.
+61,Jurassic World: Fallen Kingdom,tt4881806,417719760,6.2,47.0,51,4 wins & 26 nominations.
+62,Incredibles 2,tt3606756,608581744,7.6,93.0,80,Nominated for 1 Oscar. Another 12 wins & 76 nominations.
+63,Aquaman,tt1477834,335061807,6.9,65.0,55,2 wins & 39 nominations.
+64,Bohemian Rhapsody,tt1727824,216668042,8.0,60.0,49,Won 4 Oscars. Another 42 wins & 77 nominations.
+65,Venom,tt1270797,213515506,6.7,29.0,35,3 wins & 9 nominations.
+66,Mission: Impossible - Fallout,tt4912910,220159104,7.7,97.0,86,Nominated for 1 BAFTA Film Award. Another 23 wins & 36 nominations.
+67,Deadpool 2,tt5463162,324591735,7.7,84.0,66,6 wins & 52 nominations.
+68,Fantastic Beasts: The Crimes of Grindelwald,tt4123430,159555901,6.6,36.0,52,Nominated for 2 BAFTA Film Awards. Another 3 wins & 20 nominations.
+69,Ant-Man and the Wasp,tt5095030,216648740,7.0,87.0,70,1 win & 20 nominations.
+70,Ready Player One,tt1677720,137690172,7.4,72.0,64,Nominated for 1 Oscar. Another 11 wins & 55 nominations.
+71,Operation Red Sea,tt6878882,1543547,6.7,80.0,N/A,31 wins & 41 nominations.
+72,The Meg,tt4779682,145443742,5.6,45.0,46,4 wins & 6 nominations.
+73,Ralph Breaks the Internet,tt5848272,201091711,7.0,88.0,71,Nominated for 1 Oscar. Another 3 wins & 66 nominations.
+74,The Grinch,tt2709692,271094731,6.3,59.0,51,1 win & 18 nominations.
+75,Bumblebee,tt4701182,127195589,6.8,91.0,66,2 wins & 13 nominations.
+76,A Star Is Born,tt1517451,215288866,7.6,90.0,88,Won 1 Oscar. Another 93 wins & 278 nominations.
+77,Rampage,tt2231461,101028233,6.1,51.0,45,7 nominations.
+78,Avengers: Endgame,tt4154796,858373000,8.4,94.0,78,Nominated for 1 Oscar. Another 69 wins & 109 nominations.
+79,The Lion King,tt6105098,543638043,6.9,52.0,55,Nominated for 1 Oscar. Another 19 wins & 43 nominations.
+80,Frozen II,tt4520988,477373578,6.9,78.0,64,Nominated for 1 Oscar. Another 18 wins & 88 nominations.
+81,Spider-Man: Far from Home,tt6320628,390532085,7.5,90.0,69,10 wins & 25 nominations.
+82,Captain Marvel,tt4154664,426829839,6.9,79.0,64,8 wins & 52 nominations.
+83,Joker,tt7286456,335451311,8.4,68.0,59,Won 2 Oscars. Another 116 wins & 235 nominations.
+84,Star Wars: Episode IX - The Rise of Skywalker,tt2527338,515202542,6.6,51.0,53,Nominated for 3 Oscars. Another 9 wins & 52 nominations.
+85,Toy Story 4,tt1979376,434038008,7.8,97.0,84,Won 1 Oscar. Another 55 wins & 62 nominations.
+86,Aladdin,tt6139732,355559216,6.9,57.0,53,8 wins & 38 nominations.
+87,Jumanji: The Next Level,tt7975244,320314960,6.6,71.0,58,1 win & 10 nominations.
+88,Ne Zha,tt10627720,3695533,7.5,88.0,54,20 wins & 23 nominations.
+89,How to Train Your Dragon: The Hidden World,tt2386490,160799505,7.5,90.0,71,Nominated for 1 Oscar. Another 5 wins & 63 nominations.
+90,Maleficent: Mistress of Evil,tt4777008,113929605,6.6,39.0,43,Nominated for 1 Oscar. Another 1 win & 10 nominations.
+91,It Chapter Two,tt7349950,211593228,6.5,62.0,58,5 wins & 30 nominations.
+92,Pokémon Detective Pikachu,tt5884052,144105346,6.6,67.0,53,9 nominations.
+93,Alita: Battle Angel,tt0437086,85838210,7.3,61.0,53,10 wins & 24 nominations.
+94,Godzilla: King of the Monsters,tt3741700,110500138,6.0,42.0,48,6 wins & 14 nominations.
+95,1917,tt8579674,159227644,8.3,89.0,78,Won 3 Oscars. Another 128 wins & 200 nominations.
