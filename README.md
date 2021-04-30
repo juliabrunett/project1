@@ -1,4 +1,7 @@
 # project1
+Group Project
+testing
+=======
 ## Group Project: The Movie Database Analysis
 
 **Images Folder:** 
