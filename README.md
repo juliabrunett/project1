@@ -20,6 +20,7 @@
 - Revenue_vs_Budget.ipynb (Revenue vs Budget) (Vasu)
 
 **Presentation:**
+- project_1.pdf
 
 **Overall Analysis:**
 
