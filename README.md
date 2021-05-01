@@ -29,7 +29,7 @@ One analysis we looked into was the relationship between a movie's ratings, and 
 
 *Budget vs. Revenue*
 
-Another analysis we looked into was the relationship between the budget of a movie and what it ultimately grossed. We expected the relationship to be significant, where for the most part, the budget of a movie could predict how much revenue it would gross. We also used a scatter plot to look overall at the relationship between the budget and the revenue, and found that there is a positive correlation between the two factors. We also binned the revenue to look at different insights between different revenue categories, and looked at the overall revenue and budgets of the top 5 movies. Additionally, we looked at the revenue increase by year, and found that 2016 had the lowest revenue of its top 20 films compared to the other years.
+Another analysis we looked into was the relationship between the budget of a movie and what it ultimately grossed. We expected the relationship to be significant, where for the most part, the budget of a movie could predict how much revenue it would gross. We also used a scatter plot to look overall at the relationship between the budget and the revenue, and found that there is a positive correlation between the two factors. The r-value between these two factors is 0.52, which is significant, but not quite as high as we would've hoped. We also binned the revenue to look at different insights between different revenue categories, and looked at the overall revenue and budgets of the top 5 movies. Additionally, we looked at the revenue increase by year, and found that 2016 had the lowest revenue of its top 20 films compared to the other years.
 
 
 *Genre Breakdown: Budget vs. Ratings & Revenue*
